@@ -23,7 +23,7 @@ A real-time Oxygen Cylinder Monitoring and Management System built using React, 
 
 ## Screenshots
 
-(Add screenshots here)
+
 
 ## Future Enhancements
 
